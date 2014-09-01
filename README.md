@@ -1,0 +1,1 @@
+MySQL 資料庫一定要使用innoDB 才支援Transaction
